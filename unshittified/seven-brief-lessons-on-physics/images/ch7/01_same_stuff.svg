@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">WE ARE MADE OF STARDUST</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">Same particles, same forces, different arrangements</text>
+  <circle cx="120" cy="140" r="40" fill="#FFD700" fill-opacity="0.1" stroke="#FFD700" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="120" y="145" text-anchor="middle" fill="#FFD700" font-size="14" font-weight="bold">STAR</text>
+  <text x="120" y="195" text-anchor="middle" fill="#ffffff40" font-size="10">H, He, C, O</text>
+  <text x="120" y="211" text-anchor="middle" fill="#ffffff40" font-size="10">fusion, gravity</text>
+  <circle cx="290" cy="140" r="40" fill="#69F0AE" fill-opacity="0.1" stroke="#69F0AE" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="290" y="145" text-anchor="middle" fill="#69F0AE" font-size="14" font-weight="bold">MOUNTAIN</text>
+  <text x="290" y="195" text-anchor="middle" fill="#ffffff40" font-size="10">Si, O, Al, Fe</text>
+  <text x="290" y="211" text-anchor="middle" fill="#ffffff40" font-size="10">electromagnetism</text>
+  <circle cx="460" cy="140" r="40" fill="#4FC3F7" fill-opacity="0.1" stroke="#4FC3F7" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="460" y="145" text-anchor="middle" fill="#4FC3F7" font-size="14" font-weight="bold">TREE</text>
+  <text x="460" y="195" text-anchor="middle" fill="#ffffff40" font-size="10">C, H, O, N</text>
+  <text x="460" y="211" text-anchor="middle" fill="#ffffff40" font-size="10">photosynthesis</text>
+  <circle cx="630" cy="140" r="40" fill="#B388FF" fill-opacity="0.1" stroke="#B388FF" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="630" y="145" text-anchor="middle" fill="#B388FF" font-size="14" font-weight="bold">YOU</text>
+  <text x="630" y="195" text-anchor="middle" fill="#ffffff40" font-size="10">C, H, O, N, P, S</text>
+  <text x="630" y="211" text-anchor="middle" fill="#ffffff40" font-size="10">consciousness?</text>
+  <line x1="120" y1="225" x2="120" y2="265" stroke="#FFD700" stroke-width="1" opacity="0.3"/>
+  <polygon points="116,263 120,272 124,263" fill="#FFD700" opacity="0.3"/>
+  <line x1="290" y1="225" x2="290" y2="265" stroke="#69F0AE" stroke-width="1" opacity="0.3"/>
+  <polygon points="286,263 290,272 294,263" fill="#69F0AE" opacity="0.3"/>
+  <line x1="460" y1="225" x2="460" y2="265" stroke="#4FC3F7" stroke-width="1" opacity="0.3"/>
+  <polygon points="456,263 460,272 464,263" fill="#4FC3F7" opacity="0.3"/>
+  <line x1="630" y1="225" x2="630" y2="265" stroke="#B388FF" stroke-width="1" opacity="0.3"/>
+  <polygon points="626,263 630,272 634,263" fill="#B388FF" opacity="0.3"/>
+  <rect x="60" y="280" width="680" height="90" fill="#ffffff06" rx="8" stroke="#ffffff15" stroke-width="1"/>
+  <text x="400" y="310" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">THE SAME HANDFUL OF PARTICLES</text>
+  <circle cx="220" cy="345" r="14" fill="#4FC3F720" stroke="#4FC3F7" stroke-width="1.5" opacity="0.5"/>
+  <text x="220" y="350" text-anchor="middle" fill="#4FC3F7" font-size="12" font-weight="bold">e-</text>
+  <circle cx="280" cy="345" r="14" fill="#FF6B6B20" stroke="#FF6B6B" stroke-width="1.5" opacity="0.5"/>
+  <text x="280" y="350" text-anchor="middle" fill="#FF6B6B" font-size="12" font-weight="bold">u</text>
+  <circle cx="340" cy="345" r="14" fill="#FF6B6B20" stroke="#FF6B6B" stroke-width="1.5" opacity="0.5"/>
+  <text x="340" y="350" text-anchor="middle" fill="#FF6B6B" font-size="12" font-weight="bold">d</text>
+  <circle cx="400" cy="345" r="14" fill="#FFEB3B20" stroke="#FFEB3B" stroke-width="1.5" opacity="0.5"/>
+  <text x="400" y="350" text-anchor="middle" fill="#FFEB3B" font-size="12" font-weight="bold">γ</text>
+  <circle cx="460" cy="345" r="14" fill="#FF6B6B20" stroke="#FF6B6B" stroke-width="1.5" opacity="0.5"/>
+  <text x="460" y="350" text-anchor="middle" fill="#FF6B6B" font-size="12" font-weight="bold">g</text>
+  <circle cx="520" cy="345" r="14" fill="#B388FF20" stroke="#B388FF" stroke-width="1.5" opacity="0.5"/>
+  <text x="520" y="350" text-anchor="middle" fill="#B388FF" font-size="12" font-weight="bold">ν</text>
+
+  <text x="400" y="395" text-anchor="middle" fill="#ffffff40" font-size="12">No magic ingredient separates you from a star. Just arrangement.</text>
+
+</svg>

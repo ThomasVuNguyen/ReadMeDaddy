@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#bg)" rx="12"/>
+
+  <text x="450" y="35" text-anchor="middle" fill="#fff" font-size="22" font-weight="bold">THE STANDARD MODEL</text>
+  <text x="450" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">Fewer than 20 particles build everything in the universe</text>
+  <text x="50" y="75" fill="#FF6B6B" font-size="14" font-weight="bold">QUARKS</text>
+  <text x="245" y="75" fill="#ffffff30" font-size="10">Make up protons and neutrons</text>
+  <rect x="50" y="80" width="100" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="70" y="115" fill="#FF6B6B" font-size="28" font-weight="bold">u</text>
+  <text x="142" y="100" text-anchor="end" fill="#ffffff60" font-size="10">Up</text>
+  <text x="142" y="145" text-anchor="end" fill="#ffffff30" font-size="9">2.2 MeV</text>
+  <rect x="160" y="80" width="100" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="180" y="115" fill="#FF6B6B" font-size="28" font-weight="bold">c</text>
+  <text x="252" y="100" text-anchor="end" fill="#ffffff60" font-size="10">Charm</text>
+  <text x="252" y="145" text-anchor="end" fill="#ffffff30" font-size="9">1.3 GeV</text>
+  <rect x="270" y="80" width="100" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="290" y="115" fill="#FF6B6B" font-size="28" font-weight="bold">t</text>
+  <text x="362" y="100" text-anchor="end" fill="#ffffff60" font-size="10">Top</text>
+  <text x="362" y="145" text-anchor="end" fill="#ffffff30" font-size="9">173 GeV</text>
+  <rect x="50" y="163" width="100" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="70" y="198" fill="#FF6B6B" font-size="28" font-weight="bold">d</text>
+  <text x="142" y="183" text-anchor="end" fill="#ffffff60" font-size="10">Down</text>
+  <text x="142" y="228" text-anchor="end" fill="#ffffff30" font-size="9">4.7 MeV</text>
+  <rect x="160" y="163" width="100" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="180" y="198" fill="#FF6B6B" font-size="28" font-weight="bold">s</text>
+  <text x="252" y="183" text-anchor="end" fill="#ffffff60" font-size="10">Strange</text>
+  <text x="252" y="228" text-anchor="end" fill="#ffffff30" font-size="9">96 MeV</text>
+  <rect x="270" y="163" width="100" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="290" y="198" fill="#FF6B6B" font-size="28" font-weight="bold">b</text>
+  <text x="362" y="183" text-anchor="end" fill="#ffffff60" font-size="10">Bottom</text>
+  <text x="362" y="228" text-anchor="end" fill="#ffffff30" font-size="9">4.2 GeV</text>
+  <text x="50" y="271" fill="#B388FF" font-size="14" font-weight="bold">LEPTONS</text>
+  <text x="150" y="271" fill="#ffffff30" font-size="10">Electrons and their cousins</text>
+  <rect x="50" y="276" width="100" height="75" fill="#B388FF10" stroke="#B388FF40" stroke-width="1" rx="6"/>
+  <text x="70" y="311" fill="#B388FF" font-size="28" font-weight="bold">e</text>
+  <text x="142" y="296" text-anchor="end" fill="#ffffff60" font-size="10">Electron</text>
+  <text x="142" y="341" text-anchor="end" fill="#ffffff30" font-size="9">0.511 MeV</text>
+  <rect x="160" y="276" width="100" height="75" fill="#B388FF10" stroke="#B388FF40" stroke-width="1" rx="6"/>
+  <text x="180" y="311" fill="#B388FF" font-size="28" font-weight="bold">μ</text>
+  <text x="252" y="296" text-anchor="end" fill="#ffffff60" font-size="10">Muon</text>
+  <text x="252" y="341" text-anchor="end" fill="#ffffff30" font-size="9">106 MeV</text>
+  <rect x="270" y="276" width="100" height="75" fill="#B388FF10" stroke="#B388FF40" stroke-width="1" rx="6"/>
+  <text x="290" y="311" fill="#B388FF" font-size="28" font-weight="bold">τ</text>
+  <text x="362" y="296" text-anchor="end" fill="#ffffff60" font-size="10">Tau</text>
+  <text x="362" y="341" text-anchor="end" fill="#ffffff30" font-size="9">1.78 GeV</text>
+  <rect x="50" y="359" width="100" height="75" fill="#B388FF10" stroke="#B388FF40" stroke-width="1" rx="6"/>
+  <text x="70" y="394" fill="#B388FF" font-size="28" font-weight="bold">νe</text>
+  <text x="142" y="379" text-anchor="end" fill="#ffffff60" font-size="10">e neutrino</text>
+  <text x="142" y="424" text-anchor="end" fill="#ffffff30" font-size="9">< 2 eV</text>
+  <rect x="160" y="359" width="100" height="75" fill="#B388FF10" stroke="#B388FF40" stroke-width="1" rx="6"/>
+  <text x="180" y="394" fill="#B388FF" font-size="28" font-weight="bold">νμ</text>
+  <text x="252" y="379" text-anchor="end" fill="#ffffff60" font-size="10">μ neutrino</text>
+  <text x="252" y="424" text-anchor="end" fill="#ffffff30" font-size="9">< 0.2 MeV</text>
+  <rect x="270" y="359" width="100" height="75" fill="#B388FF10" stroke="#B388FF40" stroke-width="1" rx="6"/>
+  <text x="290" y="394" fill="#B388FF" font-size="28" font-weight="bold">ντ</text>
+  <text x="362" y="379" text-anchor="end" fill="#ffffff60" font-size="10">τ neutrino</text>
+  <text x="362" y="424" text-anchor="end" fill="#ffffff30" font-size="9">< 18 MeV</text>
+  <text x="100.0" y="266" text-anchor="middle" fill="#ffffff20" font-size="10">Gen I</text>
+  <text x="210.0" y="266" text-anchor="middle" fill="#ffffff20" font-size="10">Gen II</text>
+  <text x="320.0" y="266" text-anchor="middle" fill="#ffffff20" font-size="10">Gen III</text>
+  <text x="430" y="75" fill="#69F0AE" font-size="14" font-weight="bold">FORCE CARRIERS</text>
+  <rect x="430" y="80" width="200" height="75" fill="#FFEB3B10" stroke="#FFEB3B40" stroke-width="1" rx="6"/>
+  <text x="450" y="118" fill="#FFEB3B" font-size="30" font-weight="bold">γ</text>
+  <text x="620" y="102" text-anchor="end" fill="#ffffff70" font-size="12">Photon</text>
+  <text x="620" y="143" text-anchor="end" fill="#ffffff40" font-size="10">Electromagnetic</text>
+  <rect x="430" y="175" width="200" height="75" fill="#FF6B6B10" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="450" y="213" fill="#FF6B6B" font-size="30" font-weight="bold">g</text>
+  <text x="620" y="197" text-anchor="end" fill="#ffffff70" font-size="12">Gluon</text>
+  <text x="620" y="238" text-anchor="end" fill="#ffffff40" font-size="10">Strong force</text>
+  <rect x="430" y="270" width="200" height="75" fill="#4FC3F710" stroke="#4FC3F740" stroke-width="1" rx="6"/>
+  <text x="450" y="308" fill="#4FC3F7" font-size="30" font-weight="bold">W/Z</text>
+  <text x="620" y="292" text-anchor="end" fill="#ffffff70" font-size="12">W & Z</text>
+  <text x="620" y="333" text-anchor="end" fill="#ffffff40" font-size="10">Weak force</text>
+  <rect x="430" y="365" width="200" height="75" fill="#69F0AE10" stroke="#69F0AE40" stroke-width="1" rx="6"/>
+  <text x="450" y="403" fill="#69F0AE" font-size="30" font-weight="bold">H</text>
+  <text x="620" y="387" text-anchor="end" fill="#ffffff70" font-size="12">Higgs</text>
+  <text x="620" y="428" text-anchor="end" fill="#ffffff40" font-size="10">Mass</text>
+
+  <rect x="670" y="80" width="210" height="310" fill="#ffffff06" rx="8" stroke="#ffffff15" stroke-width="1"/>
+  <text x="775" y="110" text-anchor="middle" fill="#FF6B6B" font-size="14" font-weight="bold">WHAT'S MISSING</text>
+
+  <text x="685" y="145" fill="#ffffff50" font-size="12">❌ Dark matter particle</text>
+  <text x="700" y="163" fill="#ffffff30" font-size="10">25% of the universe,</text>
+  <text x="700" y="178" fill="#ffffff30" font-size="10">completely unknown</text>
+
+  <text x="685" y="210" fill="#ffffff50" font-size="12">❌ Graviton</text>
+  <text x="700" y="228" fill="#ffffff30" font-size="10">Gravity isn't in this</text>
+  <text x="700" y="243" fill="#ffffff30" font-size="10">model at all</text>
+
+  <text x="685" y="275" fill="#ffffff50" font-size="12">❌ Supersymmetric partners</text>
+  <text x="700" y="293" fill="#ffffff30" font-size="10">Predicted, searched for</text>
+  <text x="700" y="308" fill="#ffffff30" font-size="10">decades. Never found.</text>
+
+  <text x="685" y="345" fill="#ffffff50" font-size="12">❌ Underlying principle</text>
+  <text x="700" y="363" fill="#ffffff30" font-size="10">Why THESE particles?</text>
+  <text x="700" y="378" fill="#ffffff30" font-size="10">Nobody knows.</text>
+
+  <!-- Bottom -->
+  <text x="450" y="500" text-anchor="middle" fill="#ffffff40" font-size="12">The whole thing fits on a poster. It describes everything we've ever measured. And physicists think it's ugly.</text>
+
+</svg>

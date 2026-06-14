@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+    <radialGradient id="known" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#69F0AE" stop-opacity="0.15"/>
+      <stop offset="80%" stop-color="#69F0AE" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#69F0AE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="700" height="350" fill="url(#bg3)" rx="12"/>
+
+  <text x="350" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">THE EDGE OF KNOWLEDGE</text>
+  <text x="350" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">"On the edge of what we know, shines the mystery and the beauty of the world."</text>
+  <circle cx="350" cy="200" r="80" fill="url(#known)"/>
+  <circle cx="350" cy="200" r="80" fill="none" stroke="#69F0AE" stroke-width="1.5" opacity="0.3" stroke-dasharray="4,4"/>
+  <text x="350" y="195" text-anchor="middle" fill="#69F0AE" font-size="14" font-weight="bold">WHAT WE KNOW</text>
+  <text x="382" y="232" text-anchor="middle" fill="#69F0AE80" font-size="9">GR</text>
+  <text x="318" y="232" text-anchor="middle" fill="#69F0AE80" font-size="9">QM</text>
+  <text x="318" y="168" text-anchor="middle" fill="#69F0AE80" font-size="9">Standard</text>
+  <text x="318" y="180" text-anchor="middle" fill="#69F0AE80" font-size="9">Model</text>
+  <text x="382" y="168" text-anchor="middle" fill="#69F0AE80" font-size="9">Thermo</text>
+  <text x="395" y="200" text-anchor="middle" fill="#69F0AE80" font-size="9">Evolution</text>
+  <text x="140" y="120" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Dark matter?</text>
+  <line x1="275" y1="172" x2="140" y2="120" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="530" y="130" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Dark energy?</text>
+  <line x1="425" y1="171" x2="530" y2="130" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="150" y="280" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Quantum gravity?</text>
+  <line x1="276" y1="230" x2="150" y2="280" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="550" y="250" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Consciousness?</text>
+  <line x1="428" y1="219" x2="550" y2="250" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="350" y="80" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Before the Big Bang?</text>
+  <line x1="350" y1="120" x2="350" y2="80" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="350" y="320" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">What is time?</text>
+  <line x1="350" y1="280" x2="350" y2="320" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="180" y="190" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Other universes?</text>
+  <line x1="270" y1="195" x2="180" y2="190" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+  <text x="520" y="190" text-anchor="middle" fill="#B388FF" font-size="11" opacity="0.5">Why these constants?</text>
+  <line x1="430" y1="195" x2="520" y2="190" stroke="#B388FF" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+
+  <text x="350" y="345" text-anchor="middle" fill="#ffffff35" font-size="11">The island of knowledge grows, but so does the shoreline of mystery.</text>
+
+</svg>

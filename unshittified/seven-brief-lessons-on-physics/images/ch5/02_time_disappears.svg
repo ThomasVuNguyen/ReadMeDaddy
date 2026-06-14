@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="400" fill="url(#bg2)" rx="12"/>
+
+  <text x="350" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">WHERE DOES TIME GO?</text>
+  <text x="350" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">Zoom in far enough and the clock disappears</text>
+  <rect x="60" y="70" width="580" height="70" fill="#4FC3F708" stroke="#4FC3F730" stroke-width="1" rx="8"/>
+  <text x="80" y="100" fill="#4FC3F7" font-size="14" font-weight="bold">OUR EXPERIENCE</text>
+  <text x="80" y="120" fill="#ffffff50" font-size="11">Smooth flow of time, clocks tick, events happen in order</text>
+  <rect x="60" y="180" width="580" height="70" fill="#69F0AE08" stroke="#69F0AE30" stroke-width="1" rx="8"/>
+  <text x="80" y="210" fill="#69F0AE" font-size="14" font-weight="bold">GENERAL RELATIVITY</text>
+  <text x="80" y="230" fill="#ffffff50" font-size="11">Time is stretchy (slows near mass, speeds up in space) but still flows</text>
+  <rect x="60" y="290" width="580" height="70" fill="#B388FF08" stroke="#B388FF30" stroke-width="1" rx="8"/>
+  <text x="80" y="320" fill="#B388FF" font-size="14" font-weight="bold">LOOP QUANTUM GRAVITY</text>
+  <text x="80" y="340" fill="#ffffff50" font-size="11">No time variable in the equations. Change without a clock.</text>
+  <line x1="350" y1="140" x2="350" y2="170" stroke="#ffffff20" stroke-width="1.5"/>
+  <polygon points="346,168 350,175 354,168" fill="#ffffff20"/>
+  <text x="365" y="160" fill="#ffffff20" font-size="10">zoom in</text>
+  <line x1="350" y1="250" x2="350" y2="280" stroke="#ffffff20" stroke-width="1.5"/>
+  <polygon points="346,278 350,285 354,278" fill="#ffffff20"/>
+  <text x="365" y="270" fill="#ffffff20" font-size="10">zoom in</text>
+  <circle cx="640" cy="100" r="18" fill="none" stroke="#4FC3F7" stroke-width="2" opacity="0.7"/>
+  <line x1="640" y1="100" x2="640" y2="88" stroke="#4FC3F7" stroke-width="2" opacity="0.7"/>
+  <line x1="640" y1="100" x2="650" y2="100" stroke="#4FC3F7" stroke-width="1.5" opacity="0.7"/>
+  <ellipse cx="640" cy="210" rx="18" ry="15" fill="none" stroke="#69F0AE" stroke-width="2" opacity="0.4" transform="rotate(10, 640, 210)"/>
+  <line x1="640" y1="210" x2="640" y2="198" stroke="#69F0AE" stroke-width="1.5" opacity="0.4"/>
+  <line x1="640" y1="210" x2="650" y2="207" stroke="#69F0AE" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="666" cy="318" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="657" cy="337" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="643" cy="347" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="621" cy="338" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="613" cy="322" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="625" cy="301" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="641" cy="296" r="2" fill="#B388FF" opacity="0.3"/>
+  <circle cx="656" cy="304" r="2" fill="#B388FF" opacity="0.3"/>
+
+  <text x="640" y="325" text-anchor="middle" fill="#B388FF" font-size="8" opacity="0.4">dissolved</text>
+
+  <!-- Punchline -->
+  <text x="350" y="385" text-anchor="middle" fill="#ffffff40" font-size="12">Time isn't fundamental. It's what change looks like when you're too big to see the grains.</text>
+
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="350" fill="url(#bg3)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">"EMPTY" SPACE ISN'T EMPTY</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">Virtual particles constantly appear and disappear</text>
+
+  <!-- Divider -->
+  <line x1="400" y1="70" x2="400" y2="310" stroke="#ffffff15" stroke-width="2" stroke-dasharray="8,6"/>
+
+  <!-- Left: what we imagine -->
+  <text x="200" y="85" text-anchor="middle" fill="#FF6B6B" font-size="16" font-weight="bold">WHAT WE IMAGINE</text>
+  <text x="200" y="103" text-anchor="middle" fill="#ffffff40" font-size="11">"Empty" = nothing there</text>
+
+  <rect x="60" y="120" width="280" height="170" fill="#00000030" rx="8" stroke="#ffffff10" stroke-width="1"/>
+  <text x="200" y="210" text-anchor="middle" fill="#ffffff15" font-size="24">nothing</text>
+
+  <!-- Right: what's actually there -->
+  <text x="600" y="85" text-anchor="middle" fill="#69F0AE" font-size="16" font-weight="bold">WHAT'S ACTUALLY THERE</text>
+  <text x="600" y="103" text-anchor="middle" fill="#ffffff40" font-size="11">Seething with quantum fluctuations</text>
+
+  <rect x="460" y="120" width="280" height="170" fill="#00000030" rx="8" stroke="#ffffff10" stroke-width="1"/>
+  <circle cx="502" cy="170" r="4" fill="#B388FF" opacity="0.32"/>
+  <circle cx="518" cy="170" r="4" fill="#B388FF" opacity="0.32"/>
+  <text x="502" y="163" text-anchor="middle" fill="#B388FF" font-size="7" opacity="0.52">e+</text>
+  <text x="518" y="163" text-anchor="middle" fill="#B388FF" font-size="7" opacity="0.52">e-</text>
+  <path d="M 502 170 Q 510 155 518 170" fill="none" stroke="#B388FF" stroke-width="0.8" opacity="0.32"/>
+  <circle cx="612" cy="200" r="4" fill="#FF6B6B" opacity="0.26"/>
+  <circle cx="628" cy="200" r="4" fill="#FF6B6B" opacity="0.26"/>
+  <text x="612" y="193" text-anchor="middle" fill="#FF6B6B" font-size="7" opacity="0.46">q</text>
+  <text x="628" y="193" text-anchor="middle" fill="#FF6B6B" font-size="7" opacity="0.46">q̄</text>
+  <path d="M 612 200 Q 620 185 628 200" fill="none" stroke="#FF6B6B" stroke-width="0.8" opacity="0.26"/>
+  <circle cx="552" cy="250" r="4" fill="#FFEB3B" opacity="0.25"/>
+  <circle cx="568" cy="250" r="4" fill="#FFEB3B" opacity="0.25"/>
+  <text x="552" y="243" text-anchor="middle" fill="#FFEB3B" font-size="7" opacity="0.45">γ</text>
+  <text x="568" y="243" text-anchor="middle" fill="#FFEB3B" font-size="7" opacity="0.45">γ</text>
+  <path d="M 552 250 Q 560 235 568 250" fill="none" stroke="#FFEB3B" stroke-width="0.8" opacity="0.25"/>
+  <circle cx="682" cy="160" r="4" fill="#B388FF" opacity="0.27"/>
+  <circle cx="698" cy="160" r="4" fill="#B388FF" opacity="0.27"/>
+  <text x="682" y="153" text-anchor="middle" fill="#B388FF" font-size="7" opacity="0.47">e+</text>
+  <text x="698" y="153" text-anchor="middle" fill="#B388FF" font-size="7" opacity="0.47">e-</text>
+  <path d="M 682 160 Q 690 145 698 160" fill="none" stroke="#B388FF" stroke-width="0.8" opacity="0.27"/>
+  <circle cx="522" cy="180" r="4" fill="#FF6B6B" opacity="0.43"/>
+  <circle cx="538" cy="180" r="4" fill="#FF6B6B" opacity="0.43"/>
+  <text x="522" y="173" text-anchor="middle" fill="#FF6B6B" font-size="7" opacity="0.63">q</text>
+  <text x="538" y="173" text-anchor="middle" fill="#FF6B6B" font-size="7" opacity="0.63">q̄</text>
+  <path d="M 522 180 Q 530 165 538 180" fill="none" stroke="#FF6B6B" stroke-width="0.8" opacity="0.43"/>
+  <circle cx="652" cy="240" r="4" fill="#FFEB3B" opacity="0.28"/>
+  <circle cx="668" cy="240" r="4" fill="#FFEB3B" opacity="0.28"/>
+  <text x="652" y="233" text-anchor="middle" fill="#FFEB3B" font-size="7" opacity="0.48">γ</text>
+  <text x="668" y="233" text-anchor="middle" fill="#FFEB3B" font-size="7" opacity="0.48">γ</text>
+  <path d="M 652 240 Q 660 225 668 240" fill="none" stroke="#FFEB3B" stroke-width="0.8" opacity="0.28"/>
+  <circle cx="692" cy="200" r="4" fill="#B388FF" opacity="0.31"/>
+  <circle cx="708" cy="200" r="4" fill="#B388FF" opacity="0.31"/>
+  <text x="692" y="193" text-anchor="middle" fill="#B388FF" font-size="7" opacity="0.51">e+</text>
+  <text x="708" y="193" text-anchor="middle" fill="#B388FF" font-size="7" opacity="0.51">e-</text>
+  <path d="M 692 200 Q 700 185 708 200" fill="none" stroke="#B388FF" stroke-width="0.8" opacity="0.31"/>
+  <circle cx="482" cy="230" r="4" fill="#FF6B6B" opacity="0.41"/>
+  <circle cx="498" cy="230" r="4" fill="#FF6B6B" opacity="0.41"/>
+  <text x="482" y="223" text-anchor="middle" fill="#FF6B6B" font-size="7" opacity="0.61">q</text>
+  <text x="498" y="223" text-anchor="middle" fill="#FF6B6B" font-size="7" opacity="0.61">q̄</text>
+  <path d="M 482 230 Q 490 215 498 230" fill="none" stroke="#FF6B6B" stroke-width="0.8" opacity="0.41"/>
+  <circle cx="515" cy="255" r="4" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="685" cy="280" r="4" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="661" cy="229" r="8" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="578" cy="168" r="6" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="561" cy="275" r="5" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="512" cy="265" r="8" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="514" cy="250" r="5" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="676" cy="140" r="5" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="473" cy="238" r="4" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="655" cy="266" r="3" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="706" cy="262" r="4" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="706" cy="143" r="5" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="536" cy="185" r="8" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="552" cy="243" r="7" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+  <circle cx="560" cy="258" r="8" fill="none" stroke="#ffffff" stroke-width="0.5" opacity="0.06"/>
+
+  <text x="200" y="325" text-anchor="middle" fill="#FF6B6B80" font-size="11">Static. Dead. Silent.</text>
+  <text x="600" y="325" text-anchor="middle" fill="#69F0AE80" font-size="11">A roiling sea of virtual particles.</text>
+
+</svg>

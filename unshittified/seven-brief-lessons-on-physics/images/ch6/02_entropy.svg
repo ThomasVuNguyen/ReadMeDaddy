@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg2)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">WHY DOES HEAT FLOW ONE WAY?</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">Not because it must, but because the reverse is absurdly unlikely</text>
+
+  <!-- Before: hot + cold -->
+  <text x="200" y="90" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">BEFORE</text>
+
+  <rect x="60" y="105" width="120" height="100" fill="#FF6B6B15" stroke="#FF6B6B40" stroke-width="1" rx="6"/>
+  <text x="120" y="165" text-anchor="middle" fill="#FF6B6B" font-size="12">HOT</text>
+
+  <rect x="220" y="105" width="120" height="100" fill="#4FC3F715" stroke="#4FC3F740" stroke-width="1" rx="6"/>
+  <text x="280" y="165" text-anchor="middle" fill="#4FC3F7" font-size="12">COLD</text>
+
+  <!-- Arrow -->
+  <text x="200" y="238" text-anchor="middle" fill="#ffffff30" font-size="24">↓</text>
+
+  <!-- After: lukewarm + lukewarm -->
+  <text x="200" y="275" text-anchor="middle" fill="#fff" font-size="14" font-weight="bold">AFTER</text>
+
+  <rect x="60" y="290" width="120" height="75" fill="#FFD70015" stroke="#FFD70040" stroke-width="1" rx="6"/>
+  <text x="120" y="335" text-anchor="middle" fill="#FFD700" font-size="12">WARM</text>
+
+  <rect x="220" y="290" width="120" height="75" fill="#FFD70015" stroke="#FFD70040" stroke-width="1" rx="6"/>
+  <text x="280" y="335" text-anchor="middle" fill="#FFD700" font-size="12">WARM</text>
+
+  <!-- Right side: probability explanation -->
+  <rect x="420" y="80" width="350" height="290" fill="#ffffff06" rx="8" stroke="#ffffff10" stroke-width="1"/>
+  <text x="595" y="110" text-anchor="middle" fill="#B388FF" font-size="15" font-weight="bold">BOLTZMANN'S INSIGHT</text>
+
+  <text x="440" y="145" fill="#ffffff60" font-size="12">There are VASTLY more ways to arrange</text>
+  <text x="440" y="163" fill="#ffffff60" font-size="12">atoms with energy spread evenly than with</text>
+  <text x="440" y="181" fill="#ffffff60" font-size="12">energy concentrated in one spot.</text>
+
+  <text x="440" y="215" fill="#69F0AE" font-size="12" font-weight="bold">Ways to be "mixed": ~10²³⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰</text>
+  <text x="440" y="240" fill="#FF6B6B" font-size="12" font-weight="bold">Ways to be "separated": ~1</text>
+
+  <text x="440" y="275" fill="#ffffff50" font-size="12">It's not forbidden for heat to flow</text>
+  <text x="440" y="293" fill="#ffffff50" font-size="12">backward. It's just that the odds</text>
+  <text x="440" y="311" fill="#ffffff50" font-size="12">against it have more zeroes than there</text>
+  <text x="440" y="329" fill="#ffffff50" font-size="12">are atoms in the observable universe.</text>
+
+  <text x="595" y="360" text-anchor="middle" fill="#B388FF80" font-size="11">The second law of thermodynamics is a bet, not a law.</text>
+
+</svg>

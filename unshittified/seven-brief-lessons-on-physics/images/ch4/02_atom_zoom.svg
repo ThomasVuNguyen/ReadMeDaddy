@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="350" fill="url(#bg2)" rx="12"/>
+
+  <text x="450" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">ZOOM IN: WHAT MATTER IS MADE OF</text>
+  <circle cx="120" cy="175" r="85" fill="#4FC3F7" opacity="0.04"/>
+  <circle cx="120" cy="175" r="70" fill="#4FC3F710" stroke="#4FC3F7" stroke-width="2" opacity="0.6"/>
+  <text x="120" y="90" text-anchor="middle" fill="#4FC3F7" font-size="15" font-weight="bold">ATOM</text>
+  <text x="120" y="267" text-anchor="middle" fill="#ffffff50" font-size="11">Electron cloud</text>
+  <text x="120" y="283" text-anchor="middle" fill="#ffffff50" font-size="11">around a nucleus</text>
+  <circle cx="340" cy="175" r="70" fill="#69F0AE" opacity="0.04"/>
+  <circle cx="340" cy="175" r="55" fill="#69F0AE10" stroke="#69F0AE" stroke-width="2" opacity="0.6"/>
+  <text x="340" y="105" text-anchor="middle" fill="#69F0AE" font-size="15" font-weight="bold">NUCLEUS</text>
+  <text x="340" y="252" text-anchor="middle" fill="#ffffff50" font-size="11">Protons + neutrons</text>
+  <text x="340" y="268" text-anchor="middle" fill="#ffffff50" font-size="11">packed together</text>
+  <circle cx="560" cy="175" r="70" fill="#FF6B6B" opacity="0.04"/>
+  <circle cx="560" cy="175" r="55" fill="#FF6B6B10" stroke="#FF6B6B" stroke-width="2" opacity="0.6"/>
+  <text x="560" y="105" text-anchor="middle" fill="#FF6B6B" font-size="15" font-weight="bold">PROTON</text>
+  <text x="560" y="252" text-anchor="middle" fill="#ffffff50" font-size="11">Three quarks</text>
+  <text x="560" y="268" text-anchor="middle" fill="#ffffff50" font-size="11">bound by gluons</text>
+  <circle cx="780" cy="175" r="60" fill="#B388FF" opacity="0.04"/>
+  <circle cx="780" cy="175" r="45" fill="#B388FF10" stroke="#B388FF" stroke-width="2" opacity="0.6"/>
+  <text x="780" y="115" text-anchor="middle" fill="#B388FF" font-size="15" font-weight="bold">QUARKS</text>
+  <text x="780" y="242" text-anchor="middle" fill="#ffffff50" font-size="11">Ripples in</text>
+  <text x="780" y="258" text-anchor="middle" fill="#ffffff50" font-size="11">quantum fields</text>
+  <circle cx="120" cy="175" r="50" fill="none" stroke="#4FC3F750" stroke-width="1" stroke-dasharray="4,3"/>
+  <circle cx="145" cy="140" r="5" fill="#4FC3F7" opacity="0.8"/>
+  <circle cx="120" cy="175" r="8" fill="#69F0AE" opacity="0.5"/>
+  <circle cx="360" cy="175" r="12" fill="#FF6B6B" opacity="0.4"/>
+  <circle cx="350" cy="192" r="12" fill="#FFD700" opacity="0.4"/>
+  <circle cx="330" cy="192" r="12" fill="#FF6B6B" opacity="0.4"/>
+  <circle cx="320" cy="175" r="12" fill="#FFD700" opacity="0.4"/>
+  <circle cx="330" cy="158" r="12" fill="#FF6B6B" opacity="0.4"/>
+  <circle cx="350" cy="158" r="12" fill="#FFD700" opacity="0.4"/>
+  <circle cx="560" cy="153" r="10" fill="#FF6B6B" opacity="0.6"/>
+  <text x="560" y="157" text-anchor="middle" fill="#fff" font-size="8" font-weight="bold">q</text>
+  <circle cx="541" cy="186" r="10" fill="#FF6B6B" opacity="0.6"/>
+  <text x="541" y="190" text-anchor="middle" fill="#fff" font-size="8" font-weight="bold">q</text>
+  <circle cx="579" cy="186" r="10" fill="#FF6B6B" opacity="0.6"/>
+  <text x="579" y="190" text-anchor="middle" fill="#fff" font-size="8" font-weight="bold">q</text>
+  <line x1="560" y1="153" x2="541" y2="186" stroke="#FFD700" stroke-width="2" opacity="0.3" stroke-dasharray="3,3"/>
+  <line x1="541" y1="186" x2="579" y2="186" stroke="#FFD700" stroke-width="2" opacity="0.3" stroke-dasharray="3,3"/>
+  <line x1="579" y1="186" x2="560" y2="153" stroke="#FFD700" stroke-width="2" opacity="0.3" stroke-dasharray="3,3"/>
+  <polyline points="740,127.0 743,129.2 746,130.9 749,131.9 752,131.9 755,130.9 758,129.1 761,127.0 764,124.8 767,123.1 770,122.1 773,122.1 776,123.1 779,124.9 782,127.1 785,129.3 788,131.0 791,131.9 794,131.8 797,130.8 800,129.1 803,126.9 806,124.7 809,123.0 812,122.1 815,122.2 818,123.2" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,142.2 743,143.6 746,144.0 749,143.4 752,142.0 755,140.0 758,137.7 761,135.7 764,134.4 767,134.0 770,134.6 773,136.0 776,138.1 779,140.3 782,142.3 785,143.6 788,144.0 791,143.4 794,141.9 797,139.9 800,137.6 803,135.7 806,134.4 809,134.0 812,134.6 815,136.1 818,138.2" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,155.9 743,155.8 746,154.7 749,152.9 752,150.7 755,148.6 758,146.9 761,146.1 764,146.2 767,147.3 770,149.1 773,151.3 776,153.5 779,155.1 782,155.9 785,155.8 788,154.7 791,152.8 794,150.6 797,148.5 800,146.9 803,146.1 806,146.2 809,147.4 812,149.2 815,151.4 818,153.5" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,167.3 743,165.8 746,163.7 749,161.5 752,159.6 755,158.3 758,158.0 761,158.7 764,160.2 767,162.3 770,164.6 773,166.5 776,167.7 779,168.0 782,167.3 785,165.7 788,163.6 791,161.4 794,159.5 797,158.3 800,158.0 803,158.7 806,160.3 809,162.4 812,164.6 815,166.5 818,167.7" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,176.7 743,174.5 746,172.4 749,170.8 752,170.0 755,170.3 758,171.5 761,173.4 764,175.6 767,177.7 770,179.3 773,180.0 776,179.7 779,178.5 782,176.6 785,174.4 788,172.3 791,170.7 794,170.0 797,170.3 800,171.5 803,173.4 806,175.7 809,177.8 812,179.3 815,180.0 818,179.7" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,185.2 743,183.4 746,182.2 749,182.0 752,182.8 755,184.5 758,186.6 761,188.8 764,190.6 767,191.8 770,191.9 773,191.1 776,189.5 779,187.4 782,185.2 785,183.3 788,182.2 791,182.1 794,182.9 797,184.5 800,186.7 803,188.9 806,190.7 809,191.8 812,191.9 815,191.1 818,189.4" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,194.6 743,194.0 746,194.4 749,195.7 752,197.6 755,199.8 758,201.9 761,203.4 764,204.0 767,203.6 770,202.3 773,200.4 776,198.1 779,196.1 782,194.6 785,194.0 788,194.4 791,195.7 794,197.7 797,199.9 800,202.0 803,203.4 806,204.0 809,203.6 812,202.3 815,200.3 818,198.0" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <polyline points="740,206.1 743,207.0 746,208.7 749,210.8 752,213.0 755,214.8 758,215.8 761,215.9 764,215.0 767,213.3 770,211.1 773,208.9 776,207.2 779,206.2 782,206.1 785,207.0 788,208.8 791,210.9 794,213.1 797,214.9 800,215.9 803,215.9 806,214.9 809,213.2 812,211.0 815,208.9 818,207.1" fill="none" stroke="#B388FF" stroke-width="1" opacity="0.2"/>
+  <line x1="208" y1="175" x2="267" y2="175" stroke="#ffffff30" stroke-width="1.5"/>
+  <polygon points="261,170 267,175 261,180" fill="#ffffff30"/>
+  <text x="237.5" y="168" text-anchor="middle" fill="#ffffff25" font-size="9">zoom</text>
+  <line x1="413" y1="175" x2="487" y2="175" stroke="#ffffff30" stroke-width="1.5"/>
+  <polygon points="481,170 487,175 481,180" fill="#ffffff30"/>
+  <text x="450.0" y="168" text-anchor="middle" fill="#ffffff25" font-size="9">zoom</text>
+  <line x1="633" y1="175" x2="717" y2="175" stroke="#ffffff30" stroke-width="1.5"/>
+  <polygon points="711,170 717,175 711,180" fill="#ffffff30"/>
+  <text x="675.0" y="168" text-anchor="middle" fill="#ffffff25" font-size="9">zoom</text>
+
+  <text x="450" y="335" text-anchor="middle" fill="#ffffff40" font-size="12">At the deepest level: no solid "things." Just ripples in fields, flickering in and out of existence.</text>
+
+</svg>
