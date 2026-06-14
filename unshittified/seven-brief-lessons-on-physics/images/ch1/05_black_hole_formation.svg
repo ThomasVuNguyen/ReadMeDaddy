@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+    <radialGradient id="star_alive" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFF9C4"/>
+      <stop offset="60%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </radialGradient>
+    <radialGradient id="star_dying" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF8A80"/>
+      <stop offset="100%" stop-color="#B71C1C"/>
+    </radialGradient>
+    <radialGradient id="accretion" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000"/>
+      <stop offset="40%" stop-color="#000"/>
+      <stop offset="70%" stop-color="#FF6D0080"/>
+      <stop offset="100%" stop-color="#FF6D0000"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="320" fill="url(#bg5)" rx="12"/>
+
+  <text x="450" y="30" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">BLACK HOLE: DEATH OF A MASSIVE STAR</text>
+
+  <!-- Stage 1: Living star -->
+  <g transform="translate(120, 170)">
+    <circle cx="0" cy="0" r="50" fill="url(#star_alive)" opacity="0.9"/>
+    <text x="0" y="5" text-anchor="middle" fill="#000" font-size="12" font-weight="bold">Burning</text>
+    <text x="0" y="-60" text-anchor="middle" fill="#FFD700" font-size="13" font-weight="bold">1. Massive Star</text>
+    <text x="0" y="75" text-anchor="middle" fill="#ffffff50" font-size="10">Hydrogen fusion</text>
+    <text x="0" y="88" text-anchor="middle" fill="#ffffff50" font-size="10">pushes outward</text>
+  </g>
+
+  <!-- Arrow -->
+  <text x="225" y="175" fill="#ffffff40" font-size="24">→</text>
+
+  <!-- Stage 2: Fuel exhausted -->
+  <g transform="translate(330, 170)">
+    <circle cx="0" cy="0" r="45" fill="url(#star_dying)" opacity="0.8"/>
+    <circle cx="0" cy="0" r="20" fill="#424242"/>
+    <text x="0" y="5" text-anchor="middle" fill="#fff" font-size="10">Iron</text>
+    <text x="0" y="16" text-anchor="middle" fill="#fff" font-size="10">core</text>
+    <text x="0" y="-55" text-anchor="middle" fill="#FF8A80" font-size="13" font-weight="bold">2. Fuel Exhausted</text>
+    <text x="0" y="70" text-anchor="middle" fill="#ffffff50" font-size="10">No more outward</text>
+    <text x="0" y="83" text-anchor="middle" fill="#ffffff50" font-size="10">pressure</text>
+  </g>
+
+  <!-- Arrow -->
+  <text x="435" y="175" fill="#ffffff40" font-size="24">→</text>
+
+  <!-- Stage 3: Collapse -->
+  <g transform="translate(540, 170)">
+    <!-- Inward arrows -->
+    <line x1="-55" y1="0" x2="-20" y2="0" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="55" y1="0" x2="20" y2="0" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="0" y1="-55" x2="0" y2="-20" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="0" y1="55" x2="0" y2="20" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="-40" y1="-40" x2="-14" y2="-14" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="40" y1="-40" x2="14" y2="-14" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="-40" y1="40" x2="-14" y2="14" stroke="#FF6B6B" stroke-width="2"/>
+    <line x1="40" y1="40" x2="14" y2="14" stroke="#FF6B6B" stroke-width="2"/>
+    <circle cx="0" cy="0" r="12" fill="#333"/>
+    <text x="0" y="-60" text-anchor="middle" fill="#FF6B6B" font-size="13" font-weight="bold">3. Collapse</text>
+    <text x="0" y="75" text-anchor="middle" fill="#ffffff50" font-size="10">Gravity crushes</text>
+    <text x="0" y="88" text-anchor="middle" fill="#ffffff50" font-size="10">the star inward</text>
+  </g>
+
+  <!-- Arrow -->
+  <text x="640" y="175" fill="#ffffff40" font-size="24">→</text>
+
+  <!-- Stage 4: Black hole -->
+  <g transform="translate(750, 170)">
+    <circle cx="0" cy="0" r="55" fill="url(#accretion)"/>
+    <circle cx="0" cy="0" r="22" fill="#000" stroke="#ffffff30" stroke-width="1"/>
+    <text x="0" y="3" text-anchor="middle" fill="#ffffff60" font-size="9">Event</text>
+    <text x="0" y="14" text-anchor="middle" fill="#ffffff60" font-size="9">Horizon</text>
+    <text x="0" y="-65" text-anchor="middle" fill="#fff" font-size="13" font-weight="bold">4. Black Hole</text>
+    <text x="0" y="75" text-anchor="middle" fill="#ffffff50" font-size="10">Space bent so deeply</text>
+    <text x="0" y="88" text-anchor="middle" fill="#ffffff50" font-size="10">nothing escapes</text>
+  </g>
+
+</svg>

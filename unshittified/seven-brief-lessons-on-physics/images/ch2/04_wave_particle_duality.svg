@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="350" fill="url(#bg4)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">THE DOUBLE NATURE OF LIGHT</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff80" font-size="13">Is it a wave? Is it a particle? Both, depending on how you look.</text>
+
+  <!-- Divider -->
+  <line x1="400" y1="70" x2="400" y2="310" stroke="#ffffff20" stroke-width="2" stroke-dasharray="8,6"/>
+
+  <!-- Left: Wave behavior -->
+  <text x="200" y="90" text-anchor="middle" fill="#FFEB3B" font-size="16" font-weight="bold">WAVE</text>
+  <text x="200" y="108" text-anchor="middle" fill="#ffffff50" font-size="11">Interference, diffraction, spread</text>
+  <rect x="80" y="140" width="240" height="20" fill="#FFEB3B" opacity="0.5" rx="2"/>
+  <rect x="80" y="165" width="240" height="20" fill="#FFEB3B" opacity="0.08" rx="2"/>
+  <rect x="80" y="190" width="240" height="20" fill="#FFEB3B" opacity="0.5" rx="2"/>
+  <rect x="80" y="215" width="240" height="20" fill="#FFEB3B" opacity="0.08" rx="2"/>
+  <rect x="80" y="240" width="240" height="20" fill="#FFEB3B" opacity="0.5" rx="2"/>
+  <rect x="80" y="265" width="240" height="20" fill="#FFEB3B" opacity="0.08" rx="2"/>
+  <rect x="80" y="290" width="240" height="20" fill="#FFEB3B" opacity="0.5" rx="2"/>
+
+  <text x="200" y="330" text-anchor="middle" fill="#FFEB3B80" font-size="11">Interference bands on a screen</text>
+
+  <!-- Right: Particle behavior -->
+  <text x="600" y="90" text-anchor="middle" fill="#FFEB3B" font-size="16" font-weight="bold">PARTICLE</text>
+  <text x="600" y="108" text-anchor="middle" fill="#ffffff50" font-size="11">Photoelectric effect, discrete hits</text>
+  <circle cx="553" cy="149" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="680" cy="307" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="568" cy="146" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="532" cy="154" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="533" cy="194" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="587" cy="298" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="501" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="590" cy="272" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="525" cy="306" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="504" cy="302" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="594" cy="296" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="654" cy="152" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="664" cy="195" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="605" cy="249" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="679" cy="301" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="603" cy="250" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="619" cy="243" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="597" cy="298" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="669" cy="246" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="536" cy="252" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="552" cy="304" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="567" cy="202" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="578" cy="205" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="567" cy="296" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="573" cy="169" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="570" cy="296" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="665" cy="171" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="628" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="547" cy="230" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="696" cy="224" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="650" cy="154" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="502" cy="150" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="570" cy="226" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="691" cy="203" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="513" cy="248" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="641" cy="201" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="607" cy="150" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="609" cy="150" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="553" cy="240" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="507" cy="232" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="628" cy="248" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="677" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="529" cy="207" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="547" cy="253" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="652" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="608" cy="195" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="558" cy="156" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="578" cy="296" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="524" cy="146" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="660" cy="149" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="591" cy="194" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="570" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="642" cy="300" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="561" cy="219" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="565" cy="300" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="603" cy="248" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="645" cy="149" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="679" cy="177" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="549" cy="208" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="564" cy="305" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="691" cy="205" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="540" cy="251" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="613" cy="302" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="620" cy="148" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="686" cy="147" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="687" cy="304" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="646" cy="151" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="506" cy="296" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="597" cy="278" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="683" cy="195" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="627" cy="298" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="659" cy="300" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="639" cy="246" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="638" cy="147" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="634" cy="202" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="563" cy="197" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="651" cy="175" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="699" cy="296" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="583" cy="201" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="553" cy="250" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="574" cy="302" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="559" cy="305" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="564" cy="299" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="510" cy="207" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="653" cy="199" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="565" cy="279" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="613" cy="243" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="550" cy="203" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="685" cy="270" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="691" cy="201" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="599" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="595" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="565" cy="145" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="678" cy="201" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="601" cy="174" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="678" cy="299" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="680" cy="306" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="564" cy="148" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="674" cy="201" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="534" cy="208" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="503" cy="199" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="533" cy="251" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="647" cy="150" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="668" cy="252" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="545" cy="192" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="518" cy="250" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="661" cy="221" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="688" cy="247" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="660" cy="147" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="522" cy="222" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="603" cy="245" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="599" cy="152" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="694" cy="185" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="682" cy="170" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="582" cy="149" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="609" cy="201" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="677" cy="153" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="587" cy="299" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="557" cy="203" r="2" fill="#FFEB3B" opacity="0.7"/>
+  <circle cx="664" cy="248" r="2" fill="#FFEB3B" opacity="0.7"/>
+
+  <text x="600" y="330" text-anchor="middle" fill="#FFEB3B80" font-size="11">Individual photon hits build up the pattern</text>
+
+  <!-- Center annotation -->
+  <text x="400" y="195" text-anchor="middle" fill="#69F0AE" font-size="13" font-weight="bold" transform="rotate(-90, 400, 195)">SAME THING</text>
+
+</svg>

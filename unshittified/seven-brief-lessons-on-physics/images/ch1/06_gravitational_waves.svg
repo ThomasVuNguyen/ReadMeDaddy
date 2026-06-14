@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg6)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">GRAVITATIONAL WAVES</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff80" font-size="13">Space itself ripples — like waves on a lake</text>
+  <circle cx="250" cy="210" r="40" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.35"/>
+  <circle cx="250" cy="210" r="75" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.32"/>
+  <circle cx="250" cy="210" r="110" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.30"/>
+  <circle cx="250" cy="210" r="145" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.27"/>
+  <circle cx="250" cy="210" r="180" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.25"/>
+  <circle cx="250" cy="210" r="215" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.22"/>
+  <circle cx="250" cy="210" r="250" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.20"/>
+  <circle cx="250" cy="210" r="285" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.17"/>
+  <circle cx="250" cy="210" r="320" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.15"/>
+  <circle cx="250" cy="210" r="355" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.12"/>
+  <circle cx="250" cy="210" r="390" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.10"/>
+  <circle cx="250" cy="210" r="425" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.07"/>
+  <!-- Binary stars -->
+  <circle cx="230" cy="210" r="15" fill="#FFD700" opacity="0.9"/>
+  <circle cx="270" cy="210" r="12" fill="#FF8C00" opacity="0.9"/>
+
+  <!-- Orbit indicator -->
+  <ellipse cx="250" cy="210" rx="28" ry="12" fill="none" stroke="#ffffff30" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <text x="250" y="260" text-anchor="middle" fill="#FFD700" font-size="12">Binary star system</text>
+  <text x="250" y="275" text-anchor="middle" fill="#ffffff50" font-size="11">spiraling inward</text>
+
+  <!-- Right side: wave pattern (signal) -->
+  <rect x="480" y="80" width="300" height="230" fill="#ffffff08" rx="8" stroke="#ffffff15" stroke-width="1"/>
+  <text x="630" y="105" text-anchor="middle" fill="#B388FF" font-size="14" font-weight="bold">Detected Signal</text>
+  <text x="630" y="120" text-anchor="middle" fill="#ffffff50" font-size="10">(like LIGO observed in 2015)</text>
+
+  <!-- Axes -->
+  <line x1="500" y1="200" x2="760" y2="200" stroke="#ffffff30" stroke-width="1"/>
+  <line x1="500" y1="140" x2="500" y2="260" stroke="#ffffff30" stroke-width="1"/>
+  <text x="760" y="215" fill="#ffffff40" font-size="10">time →</text>
+  <text x="485" y="143" fill="#ffffff40" font-size="10">strain</text>
+  <polyline points="510,200.0 511,200.5 512,201.1 513,201.8 514,202.4 515,203.1 516,203.9 517,204.7 518,205.5 519,206.3 520,207.1 521,207.9 522,208.7 523,209.5 524,210.3 525,211.0 526,211.7 527,212.3 528,212.7 529,213.1 530,213.3 531,213.4 532,213.4 533,213.1 534,212.7 535,212.0 536,211.2 537,210.1 538,208.9 539,207.4 540,205.7 541,203.9 542,201.9 543,199.8 544,197.6 545,195.4 546,193.2 547,191.0 548,189.0 549,187.2 550,185.6 551,184.3 552,183.4 553,182.8 554,182.8 555,183.3 556,184.2 557,185.7 558,187.7 559,190.1 560,193.0 561,196.2 562,199.6 563,203.2 564,206.7 565,210.1 566,213.2 567,215.9 568,218.0 569,219.4 570,220.0 571,219.7 572,218.5 573,216.4 574,213.5 575,209.8 576,205.5 577,200.9 578,196.0 579,191.2 580,186.8 581,183.0 582,180.1 583,178.3 584,177.7 585,178.5 586,180.6 587,184.0 588,188.6 589,194.0 590,200.0 591,206.1 592,211.9 593,217.1 594,221.0 595,223.5 596,224.3 597,223.2 598,220.3 599,215.6 600,209.6 601,202.6 602,195.3 603,188.2 604,181.9 605,177.2 606,174.5 607,174.0 608,176.0 609,180.3 610,186.7 611,194.5 612,203.0 613,211.3 614,218.7 615,224.3 616,227.3 617,227.4 618,224.5 619,218.8 620,210.8 621,201.5 622,191.7 623,182.8 624,175.8 625,171.6 626,170.9 627,173.9 628,180.3 629,189.3 630,200.0 631,210.8 632,220.4 633,227.3 634,230.6 635,229.5 636,224.2 637,215.3 638,203.9 639,191.8 640,180.7 641,172.4 642,168.3 643,169.0 644,174.8 645,184.7 646,197.3 647,210.5 648,222.2 649,230.3 650,233.3 651,230.6 652,222.4 653,210.1 654,195.7 655,182.0 656,171.3 657,165.9 658,166.8 659,174.1 660,186.6 661,201.9 662,217.0 663,229.0 664,235.2 665,234.3 666,226.2 667,212.6 668,196.0 669,180.1 670,168.2 671,163.2 672,166.3 673,177.0 674,193.0 675,210.9 676,226.5 677,236.1 678,237.3 679,229.6 680,214.7 681,195.9 682,177.9 683,165.2 684,161.0 685,166.7 686,181.1 687,200.5 688,220.0 689,234.5 690,240.0 691,234.8 692,220.0 693,199.5 694,178.9 695,164.0 696,159.0 697,165.7 698,182.4 699,204.4 700,225.4 701,239.1 702,241.3 703,231.0 704,211.2 705,187.7 706,167.7 707,157.6 708,160.8 709,176.5 710,200.0 711,223.7 712,240.0 713,243.2 714,232.1 715,210.0 716,184.3 717,163.7 718,155.3 719,162.4 720,182.8 721,209.4 722,233.0 723,245.0 724,240.8 725,221.6 726,194.2 727,168.7 728,154.6 729,157.5 730,176.7 731,205.0 732,231.6 733,246.2 734,242.8 735,222.4 736,192.8 737,165.8 738,152.4 739,158.3 740,181.5 741,212.6 742,238.8 743,248.8 744,238.2 745,211.2 746,179.0 747,155.6 748,151.5 749,168.7" fill="none" stroke="#B388FF" stroke-width="2"/>
+
+  <!-- Annotations -->
+  <text x="540" y="280" fill="#ffffff40" font-size="10">Low frequency</text>
+  <text x="700" y="280" fill="#ffffff40" font-size="10">Chirp!</text>
+
+  <text x="400" y="380" text-anchor="middle" fill="#B388FF80" font-size="12" font-style="italic">Predictions match observations to 1 part in 100,000,000,000</text>
+
+</svg>

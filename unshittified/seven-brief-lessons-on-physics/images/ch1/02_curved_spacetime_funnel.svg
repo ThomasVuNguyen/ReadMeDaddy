@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD70060"/>
+      <stop offset="100%" stop-color="#FFD70000"/>
+    </radialGradient>
+  </defs>
+  <rect width="700" height="450" fill="url(#bg2)" rx="12"/>
+
+  <text x="350" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">THE FUNNEL ANALOGY</text>
+  <text x="350" y="55" text-anchor="middle" fill="#ffffff80" font-size="13">Mass warps space — objects follow the curves</text>
+  <ellipse cx="350" cy="260" rx="280" ry="140" fill="none" stroke="#69f0ae" stroke-width="1.2" opacity="0.15"/>
+  <ellipse cx="350" cy="271" rx="259" ry="130" fill="none" stroke="#76e6a9" stroke-width="1.2" opacity="0.17"/>
+  <ellipse cx="350" cy="282" rx="238" ry="120" fill="none" stroke="#84dda4" stroke-width="1.2" opacity="0.20"/>
+  <ellipse cx="350" cy="293" rx="217" ry="110" fill="none" stroke="#91d4a0" stroke-width="1.2" opacity="0.22"/>
+  <ellipse cx="350" cy="304" rx="196" ry="100" fill="none" stroke="#9fcb9b" stroke-width="1.2" opacity="0.24"/>
+  <ellipse cx="350" cy="315" rx="175" ry="90" fill="none" stroke="#adc297" stroke-width="1.2" opacity="0.26"/>
+  <ellipse cx="350" cy="325" rx="155" ry="80" fill="none" stroke="#bab992" stroke-width="1.2" opacity="0.29"/>
+  <ellipse cx="350" cy="336" rx="134" ry="70" fill="none" stroke="#c8b08e" stroke-width="1.2" opacity="0.31"/>
+  <ellipse cx="350" cy="347" rx="113" ry="60" fill="none" stroke="#d6a789" stroke-width="1.2" opacity="0.33"/>
+  <ellipse cx="350" cy="358" rx="92" ry="50" fill="none" stroke="#e39e85" stroke-width="1.2" opacity="0.35"/>
+  <ellipse cx="350" cy="369" rx="71" ry="40" fill="none" stroke="#f19580" stroke-width="1.2" opacity="0.38"/>
+  <ellipse cx="350" cy="380" rx="50" ry="30" fill="none" stroke="#ff8c7c" stroke-width="1.2" opacity="0.40"/>
+  <polyline points="630.0,260.0 609.1,270.9 588.2,281.8 567.3,292.7 546.4,303.6 525.5,314.5 504.5,325.5 483.6,336.4 462.7,347.3 441.8,358.2 420.9,369.1 400.0,380.0" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="613.1,307.9 593.5,315.4 573.8,322.9 554.2,330.3 534.5,337.8 514.9,345.3 495.2,352.8 475.6,360.3 455.9,367.8 436.3,375.3 416.6,382.8 397.0,390.3" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="564.5,350.0 548.5,354.5 532.5,359.0 516.4,363.4 500.4,367.9 484.4,372.4 468.4,376.9 452.4,381.4 436.4,385.8 420.3,390.3 404.3,394.8 388.3,399.3" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="490.0,381.2 479.5,383.5 469.1,385.7 458.6,388.0 448.2,390.2 437.7,392.5 427.3,394.7 416.8,397.0 406.4,399.2 395.9,401.5 385.5,403.7 375.0,406.0" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="398.6,397.9 395.0,398.9 391.4,400.0 387.7,401.1 384.1,402.1 380.5,403.2 376.8,404.2 373.2,405.3 369.6,406.4 365.9,407.4 362.3,408.5 358.7,409.5" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="301.4,397.9 305.0,398.9 308.6,400.0 312.3,401.1 315.9,402.1 319.5,403.2 323.2,404.2 326.8,405.3 330.4,406.4 334.1,407.4 337.7,408.5 341.3,409.5" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="210.0,381.2 220.5,383.5 230.9,385.7 241.4,388.0 251.8,390.2 262.3,392.5 272.7,394.7 283.2,397.0 293.6,399.2 304.1,401.5 314.5,403.7 325.0,406.0" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="135.5,350.0 151.5,354.5 167.5,359.0 183.6,363.4 199.6,367.9 215.6,372.4 231.6,376.9 247.6,381.4 263.6,385.8 279.7,390.3 295.7,394.8 311.7,399.3" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="86.9,307.9 106.5,315.4 126.2,322.9 145.8,330.3 165.5,337.8 185.1,345.3 204.8,352.8 224.4,360.3 244.1,367.8 263.7,375.3 283.4,382.8 303.0,390.3" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="70.0,260.0 90.9,270.9 111.8,281.8 132.7,292.7 153.6,303.6 174.5,314.5 195.5,325.5 216.4,336.4 237.3,347.3 258.2,358.2 279.1,369.1 300.0,380.0" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="86.9,212.1 106.5,226.4 126.2,240.8 145.8,255.1 165.5,269.4 185.1,283.8 204.8,298.1 224.4,312.4 244.1,326.8 263.7,341.1 283.4,355.4 303.0,369.7" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="135.5,170.0 151.5,187.3 167.5,204.7 183.6,222.0 199.6,239.4 215.6,256.7 231.6,274.0 247.6,291.4 263.6,308.7 279.7,326.0 295.7,343.4 311.7,360.7" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="210.0,138.8 220.5,158.3 230.9,177.9 241.4,197.5 251.8,217.0 262.3,236.6 272.7,256.2 283.2,275.7 293.6,295.3 304.1,314.9 314.5,334.4 325.0,354.0" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="301.4,122.1 305.0,142.9 308.6,163.6 312.3,184.4 315.9,205.2 319.5,225.9 323.2,246.7 326.8,267.4 330.4,288.2 334.1,308.9 337.7,329.7 341.3,350.5" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="398.6,122.1 395.0,142.9 391.4,163.6 387.7,184.4 384.1,205.2 380.5,225.9 376.8,246.7 373.2,267.4 369.6,288.2 365.9,308.9 362.3,329.7 358.7,350.5" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="490.0,138.8 479.5,158.3 469.1,177.9 458.6,197.5 448.2,217.0 437.7,236.6 427.3,256.2 416.8,275.7 406.4,295.3 395.9,314.9 385.5,334.4 375.0,354.0" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="564.5,170.0 548.5,187.3 532.5,204.7 516.4,222.0 500.4,239.4 484.4,256.7 468.4,274.0 452.4,291.4 436.4,308.7 420.3,326.0 404.3,343.4 388.3,360.7" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <polyline points="613.1,212.1 593.5,226.4 573.8,240.8 554.2,255.1 534.5,269.4 514.9,283.8 495.2,298.1 475.6,312.4 455.9,326.8 436.3,341.1 416.6,355.4 397.0,369.7" fill="none" stroke="#69F0AE20" stroke-width="0.8"/>
+  <circle cx="350" cy="380" r="40" fill="url(#glow)"/>
+  <circle cx="350" cy="380" r="18" fill="#FFD700" opacity="0.9"/>
+  <text x="350" y="385" text-anchor="middle" fill="#000" font-size="11" font-weight="bold">Sun</text>
+
+  <!-- Earth marble -->
+  <circle cx="523" cy="332" r="12" fill="#4FC3F7"/>
+  <text x="523" y="314" text-anchor="middle" fill="#4FC3F7" font-size="12">Earth</text>
+
+  <!-- Orbit arrow -->
+  <path d="M 538 327 Q 553 307 543 292" fill="none" stroke="#4FC3F7" stroke-width="1.5"/>
+
+  <!-- Annotations -->
+  <text x="120" y="420" fill="#ffffff60" font-size="12">No force pulling inward —</text>
+  <text x="120" y="438" fill="#69F0AE" font-size="12" font-weight="bold">the shape of space does the work</text>
+
+  <!-- Labels -->
+  <text x="620" y="150" fill="#ffffff40" font-size="11">Flat space</text>
+  <text x="620" y="165" fill="#ffffff40" font-size="11">(far from mass)</text>
+  <line x1="600" y1="155" x2="560" y2="175" stroke="#ffffff20" stroke-width="1"/>
+
+  <text x="420" y="400" fill="#ffffff40" font-size="11">Deep curve</text>
+  <text x="420" y="415" fill="#ffffff40" font-size="11">(near the sun)</text>
+  <line x1="410" y1="390" x2="380" y2="370" stroke="#ffffff20" stroke-width="1"/>
+
+</svg>

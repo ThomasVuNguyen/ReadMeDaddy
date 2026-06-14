@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="350" fill="url(#bg7)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">EINSTEIN'S FIELD EQUATION — DECODED</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff80" font-size="13">"Half a line that contains a teeming universe"</text>
+
+  <!-- The equation -->
+  <text x="400" y="130" text-anchor="middle" fill="#fff" font-size="42" font-weight="bold" font-family="'Georgia', serif">
+    R<tspan font-size="24" dy="8">ab</tspan><tspan dy="-8"> − ½ R g</tspan><tspan font-size="24" dy="8">ab</tspan><tspan dy="-8"> = T</tspan><tspan font-size="24" dy="8">ab</tspan>
+  </text>
+
+  <!-- Bracket annotations -->
+  <!-- R_ab -->
+  <line x1="175" y1="150" x2="175" y2="185" stroke="#FF6B6B" stroke-width="2"/>
+  <line x1="175" y1="185" x2="280" y2="185" stroke="#FF6B6B" stroke-width="2"/>
+  <line x1="280" y1="150" x2="280" y2="185" stroke="#FF6B6B" stroke-width="2"/>
+  <text x="227" y="205" text-anchor="middle" fill="#FF6B6B" font-size="13" font-weight="bold">Ricci Curvature</text>
+  <text x="227" y="222" text-anchor="middle" fill="#FF6B6B80" font-size="11">How space is curved</text>
+
+  <!-- ½ R g_ab -->
+  <line x1="300" y1="150" x2="300" y2="255" stroke="#FFEB3B" stroke-width="2"/>
+  <line x1="300" y1="255" x2="475" y2="255" stroke="#FFEB3B" stroke-width="2"/>
+  <line x1="475" y1="150" x2="475" y2="255" stroke="#FFEB3B" stroke-width="2"/>
+  <text x="387" y="275" text-anchor="middle" fill="#FFEB3B" font-size="13" font-weight="bold">Scalar Curvature × Metric</text>
+  <text x="387" y="292" text-anchor="middle" fill="#FFEB3B80" font-size="11">Overall shape of space-time</text>
+
+  <!-- = -->
+  <text x="515" y="200" text-anchor="middle" fill="#69F0AE" font-size="28" font-weight="bold">=</text>
+
+  <!-- T_ab -->
+  <line x1="545" y1="150" x2="545" y2="185" stroke="#4FC3F7" stroke-width="2"/>
+  <line x1="545" y1="185" x2="650" y2="185" stroke="#4FC3F7" stroke-width="2"/>
+  <line x1="650" y1="150" x2="650" y2="185" stroke="#4FC3F7" stroke-width="2"/>
+  <text x="597" y="205" text-anchor="middle" fill="#4FC3F7" font-size="13" font-weight="bold">Stress-Energy Tensor</text>
+  <text x="597" y="222" text-anchor="middle" fill="#4FC3F780" font-size="11">Where matter and energy are</text>
+
+  <!-- The punchline -->
+  <rect x="150" y="310" width="500" height="30" fill="#69F0AE15" rx="6"/>
+  <text x="400" y="330" text-anchor="middle" fill="#69F0AE" font-size="14" font-weight="bold">GEOMETRY OF SPACE = DISTRIBUTION OF MATTER</text>
+
+</svg>

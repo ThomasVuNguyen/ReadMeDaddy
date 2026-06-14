@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="380" fill="url(#bg2)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">THE EXPANDING UNIVERSE</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">Space itself stretches, carrying galaxies apart</text>
+
+  <!-- Divider -->
+  <line x1="400" y1="70" x2="400" y2="340" stroke="#ffffff15" stroke-width="2" stroke-dasharray="8,6"/>
+
+  <!-- Left: Earlier (smaller, galaxies closer) -->
+  <text x="200" y="85" text-anchor="middle" fill="#4FC3F7" font-size="16" font-weight="bold">EARLIER</text>
+  <text x="200" y="103" text-anchor="middle" fill="#ffffff40" font-size="11">Universe was smaller</text>
+  <line x1="90" y1="120" x2="90" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="120" y1="120" x2="120" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="150" y1="120" x2="150" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="180" y1="120" x2="180" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="210" y1="120" x2="210" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="240" y1="120" x2="240" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="270" y1="120" x2="270" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="300" y1="120" x2="300" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="120" x2="300" y2="120" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="150" x2="300" y2="150" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="180" x2="300" y2="180" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="210" x2="300" y2="210" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="240" x2="300" y2="240" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="270" x2="300" y2="270" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="90" y1="300" x2="300" y2="300" stroke="#ffffff08" stroke-width="1"/>
+  <circle cx="130" cy="160" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="130" cy="160" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="180" cy="150" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="180" cy="150" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="240" cy="190" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="240" cy="190" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="150" cy="240" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="150" cy="240" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="220" cy="260" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="220" cy="260" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="270" cy="170" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="270" cy="170" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="120" cy="200" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="120" cy="200" r="12" fill="#FFD700" opacity="0.08"/>
+
+  <!-- Right: Now (larger, galaxies farther apart) -->
+  <text x="600" y="85" text-anchor="middle" fill="#69F0AE" font-size="16" font-weight="bold">NOW</text>
+  <text x="600" y="103" text-anchor="middle" fill="#ffffff40" font-size="11">Space has stretched</text>
+  <line x1="440" y1="115" x2="440" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="482" y1="115" x2="482" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="524" y1="115" x2="524" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="566" y1="115" x2="566" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="608" y1="115" x2="608" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="650" y1="115" x2="650" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="692" y1="115" x2="692" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="734" y1="115" x2="734" y2="310" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="440" y1="115" x2="734" y2="115" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="440" y1="157" x2="734" y2="157" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="440" y1="199" x2="734" y2="199" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="440" y1="241" x2="734" y2="241" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="440" y1="283" x2="734" y2="283" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="440" y1="325" x2="734" y2="325" stroke="#ffffff08" stroke-width="1"/>
+  <circle cx="492" cy="135" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="492" cy="135" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="582" cy="120" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="582" cy="120" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="690" cy="180" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="690" cy="180" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="528" cy="255" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="528" cy="255" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="654" cy="285" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="654" cy="285" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="744" cy="150" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="744" cy="150" r="12" fill="#FFD700" opacity="0.08"/>
+  <circle cx="474" cy="195" r="6" fill="#FFD700" opacity="0.7"/>
+  <circle cx="474" cy="195" r="12" fill="#FFD700" opacity="0.08"/>
+
+  <!-- Arrow between -->
+  <text x="400" y="215" text-anchor="middle" fill="#fff" font-size="28">→</text>
+
+  <!-- Key insight -->
+  <text x="400" y="348" text-anchor="middle" fill="#ffffff50" font-size="12">The galaxies aren't moving through space. Space itself is expanding, carrying them apart.</text>
+  <text x="400" y="368" text-anchor="middle" fill="#ffffff40" font-size="11">Run it backward → everything converges → the Big Bang.</text>
+
+</svg>

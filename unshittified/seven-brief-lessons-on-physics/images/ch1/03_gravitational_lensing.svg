@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+    <radialGradient id="starglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="30%" stop-color="#E1F5FE"/>
+      <stop offset="100%" stop-color="#E1F5FE00"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="350" fill="url(#bg3)" rx="12"/>
+
+  <text x="400" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">LIGHT BENDING</text>
+  <text x="400" y="55" text-anchor="middle" fill="#ffffff80" font-size="13">Predicted 1915 · Confirmed 1919 (Eddington's eclipse expedition)</text>
+
+  <!-- Distant star -->
+  <circle cx="100" cy="175" r="15" fill="url(#starglow)"/>
+  <circle cx="100" cy="175" r="6" fill="#fff"/>
+  <text x="100" y="210" text-anchor="middle" fill="#E1F5FE" font-size="12">Distant Star</text>
+
+  <!-- Massive object (Sun) -->
+  <circle cx="420" cy="175" r="45" fill="#FFD700" opacity="0.15"/>
+  <circle cx="420" cy="175" r="30" fill="#FFD700" opacity="0.7"/>
+  <text x="420" y="180" text-anchor="middle" fill="#000" font-size="13" font-weight="bold">Sun</text>
+
+  <!-- Observer -->
+  <circle cx="720" cy="175" r="10" fill="#4FC3F7"/>
+  <text x="720" y="205" text-anchor="middle" fill="#4FC3F7" font-size="12">Observer</text>
+  <text x="720" y="220" text-anchor="middle" fill="#4FC3F780" font-size="11">(Earth)</text>
+
+  <!-- Straight line (blocked) -->
+  <line x1="115" y1="175" x2="390" y2="175" stroke="#ffffff30" stroke-width="1" stroke-dasharray="4,4"/>
+  <text x="250" y="165" fill="#FF6B6B80" font-size="10">Blocked path</text>
+
+  <!-- Bent light path (top) -->
+  <path d="M 115 170 Q 260 80, 420 100 Q 550 115, 710 170" fill="none" stroke="#FFEB3B" stroke-width="2.5" opacity="0.8"/>
+  <!-- Bent light path (bottom) -->
+  <path d="M 115 180 Q 260 270, 420 250 Q 550 235, 710 180" fill="none" stroke="#FFEB3B" stroke-width="2.5" opacity="0.8"/>
+
+  <!-- Apparent positions -->
+  <circle cx="200" cy="85" r="4" fill="#fff" opacity="0.5"/>
+  <text x="200" y="75" text-anchor="middle" fill="#ffffff60" font-size="10">Apparent</text>
+  <text x="200" y="63" text-anchor="middle" fill="#ffffff60" font-size="10">position ↑</text>
+
+  <circle cx="200" cy="265" r="4" fill="#fff" opacity="0.5"/>
+  <text x="200" y="290" text-anchor="middle" fill="#ffffff60" font-size="10">Apparent</text>
+  <text x="200" y="302" text-anchor="middle" fill="#ffffff60" font-size="10">position ↓</text>
+
+  <!-- Dashed lines from observer to apparent positions -->
+  <line x1="710" y1="168" x2="205" y2="87" stroke="#ffffff20" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="710" y1="182" x2="205" y2="263" stroke="#ffffff20" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Label -->
+  <text x="400" y="325" text-anchor="middle" fill="#FFEB3B99" font-size="12" font-style="italic">Light from the star curves around the sun — the star appears shifted</text>
+
+</svg>

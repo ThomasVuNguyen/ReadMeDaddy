@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+    <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5D4037"/>
+      <stop offset="100%" stop-color="#3E2723"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="420" fill="url(#bg4)" rx="12"/>
+
+  <text x="350" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">GRAVITATIONAL TIME DILATION</text>
+  <text x="350" y="55" text-anchor="middle" fill="#ffffff80" font-size="13">Closer to mass = slower time · Higher up = faster time</text>
+
+  <!-- Earth surface -->
+  <rect x="0" y="340" width="700" height="80" fill="#2E7D32" rx="0"/>
+  <text x="350" y="380" text-anchor="middle" fill="#ffffff40" font-size="13">SEA LEVEL</text>
+
+  <!-- Mountain -->
+  <polygon points="300,340 400,160 500,340" fill="url(#mountain)"/>
+  <polygon points="370,210 400,160 430,210" fill="#fff" opacity="0.3"/>
+
+  <!-- Clock at sea level -->
+  <g transform="translate(150, 260)">
+    <circle cx="0" cy="0" r="45" fill="#1a1e3a" stroke="#FF6B6B" stroke-width="3"/>
+    <text x="0" y="-55" text-anchor="middle" fill="#FF6B6B" font-size="14" font-weight="bold">Twin A</text>
+    <text x="0" y="-38" text-anchor="middle" fill="#ffffff60" font-size="11">Sea Level</text>
+    <!-- Clock hands -->
+    <line x1="0" y1="0" x2="0" y2="-30" stroke="#FF6B6B" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="20" y2="10" stroke="#FF6B6B" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="3" fill="#FF6B6B"/>
+    <!-- Time display -->
+    <text x="0" y="65" text-anchor="middle" fill="#FF6B6B" font-size="16" font-weight="bold">10:00:00.000</text>
+    <text x="0" y="82" text-anchor="middle" fill="#FF6B6B80" font-size="11">⏱ Time runs SLOWER</text>
+  </g>
+
+  <!-- Clock at mountain top -->
+  <g transform="translate(550, 120)">
+    <circle cx="0" cy="0" r="45" fill="#1a1e3a" stroke="#69F0AE" stroke-width="3"/>
+    <text x="0" y="-55" text-anchor="middle" fill="#69F0AE" font-size="14" font-weight="bold">Twin B</text>
+    <text x="0" y="-38" text-anchor="middle" fill="#ffffff60" font-size="11">Mountain Top</text>
+    <!-- Clock hands (slightly ahead) -->
+    <line x1="0" y1="0" x2="3" y2="-30" stroke="#69F0AE" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="22" y2="8" stroke="#69F0AE" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="3" fill="#69F0AE"/>
+    <!-- Time display -->
+    <text x="0" y="65" text-anchor="middle" fill="#69F0AE" font-size="16" font-weight="bold">10:00:00.004</text>
+    <text x="0" y="82" text-anchor="middle" fill="#69F0AE80" font-size="11">⏱ Time runs FASTER</text>
+  </g>
+
+  <!-- Arrow showing altitude difference -->
+  <line x1="350" y1="340" x2="350" y2="170" stroke="#ffffff30" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="360" y="255" fill="#ffffff40" font-size="11" transform="rotate(-90, 360, 255)">ALTITUDE</text>
+
+  <!-- Gravity indicator -->
+  <text x="350" y="405" text-anchor="middle" fill="#ffffff50" font-size="12">Stronger gravity → more space-time curvature → slower clocks</text>
+
+</svg>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4FC3F7" stop-opacity="0.15"/>
+      <stop offset="70%" stop-color="#4FC3F7" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#4FC3F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="700" height="500" fill="url(#bg3)" rx="12"/>
+
+  <text x="350" y="35" text-anchor="middle" fill="#fff" font-size="20" font-weight="bold">THE OBSERVABLE UNIVERSE</text>
+  <text x="350" y="55" text-anchor="middle" fill="#ffffff60" font-size="13">We can only see as far as light has had time to travel</text>
+  <circle cx="350" cy="265" r="200" fill="none" stroke="#FF6B6B" stroke-width="2" stroke-dasharray="4,4" opacity="0.5"/>
+  <text x="495" y="120" fill="#FF6B6B" font-size="10" transform="rotate(45, 495, 120)">Cosmic Microwave Background</text>
+  <circle cx="350" cy="265" r="180" fill="url(#glow)"/>
+  <circle cx="350" cy="265" r="120" fill="none" stroke="#ffffff10" stroke-width="1" stroke-dasharray="3,5"/>
+  <text x="350" y="137" text-anchor="middle" fill="#ffffff30" font-size="10">Distant galaxies</text>
+  <circle cx="350" cy="265" r="60" fill="none" stroke="#ffffff10" stroke-width="1" stroke-dasharray="3,5"/>
+  <text x="350" y="200" text-anchor="middle" fill="#ffffff30" font-size="10">Local group</text>
+  <circle cx="350" cy="265" r="5" fill="#4FC3F7"/>
+  <text x="350" y="283" text-anchor="middle" fill="#4FC3F7" font-size="11" font-weight="bold">Us</text>
+  <circle cx="487" cy="352" r="1.7" fill="#FFD700" opacity="0.10"/>
+  <circle cx="340" cy="119" r="2.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="327" cy="334" r="2.6" fill="#FFD700" opacity="0.26"/>
+  <circle cx="467" cy="239" r="2.3" fill="#FFD700" opacity="0.10"/>
+  <circle cx="288" cy="317" r="2.6" fill="#FFD700" opacity="0.23"/>
+  <circle cx="260" cy="308" r="2.4" fill="#FFD700" opacity="0.17"/>
+  <circle cx="332" cy="246" r="1.8" fill="#FFD700" opacity="0.41"/>
+  <circle cx="321" cy="163" r="2.8" fill="#FFD700" opacity="0.15"/>
+  <circle cx="402" cy="283" r="2.3" fill="#FFD700" opacity="0.32"/>
+  <circle cx="349" cy="216" r="2.6" fill="#FFD700" opacity="0.34"/>
+  <circle cx="294" cy="300" r="2.7" fill="#FFD700" opacity="0.28"/>
+  <circle cx="475" cy="365" r="2.0" fill="#FFD700" opacity="0.10"/>
+  <circle cx="317" cy="303" r="2.2" fill="#FFD700" opacity="0.33"/>
+  <circle cx="379" cy="221" r="2.3" fill="#FFD700" opacity="0.32"/>
+  <circle cx="289" cy="289" r="1.7" fill="#FFD700" opacity="0.28"/>
+  <circle cx="324" cy="187" r="2.2" fill="#FFD700" opacity="0.23"/>
+  <circle cx="321" cy="243" r="2.7" fill="#FFD700" opacity="0.38"/>
+  <circle cx="395" cy="228" r="2.7" fill="#FFD700" opacity="0.31"/>
+  <circle cx="330" cy="204" r="1.9" fill="#FFD700" opacity="0.28"/>
+  <circle cx="421" cy="306" r="2.2" fill="#FFD700" opacity="0.23"/>
+  <circle cx="258" cy="273" r="2.3" fill="#FFD700" opacity="0.19"/>
+  <circle cx="388" cy="303" r="2.3" fill="#FFD700" opacity="0.32"/>
+  <circle cx="305" cy="273" r="1.9" fill="#FFD700" opacity="0.35"/>
+  <circle cx="489" cy="247" r="2.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="299" cy="330" r="2.6" fill="#FFD700" opacity="0.22"/>
+  <circle cx="243" cy="221" r="1.6" fill="#FFD700" opacity="0.11"/>
+  <circle cx="338" cy="216" r="2.0" fill="#FFD700" opacity="0.33"/>
+  <circle cx="191" cy="234" r="2.1" fill="#FFD700" opacity="0.10"/>
+  <circle cx="319" cy="224" r="2.9" fill="#FFD700" opacity="0.33"/>
+  <circle cx="351" cy="366" r="2.5" fill="#FFD700" opacity="0.16"/>
+  <circle cx="323" cy="183" r="2.5" fill="#FFD700" opacity="0.21"/>
+  <circle cx="517" cy="276" r="2.3" fill="#FFD700" opacity="0.10"/>
+  <circle cx="302" cy="232" r="2.2" fill="#FFD700" opacity="0.31"/>
+  <circle cx="299" cy="201" r="1.7" fill="#FFD700" opacity="0.23"/>
+  <circle cx="400" cy="408" r="1.8" fill="#FFD700" opacity="0.10"/>
+  <circle cx="224" cy="254" r="1.8" fill="#FFD700" opacity="0.10"/>
+  <circle cx="382" cy="180" r="2.9" fill="#FFD700" opacity="0.20"/>
+  <circle cx="373" cy="345" r="2.0" fill="#FFD700" opacity="0.22"/>
+  <circle cx="338" cy="348" r="2.1" fill="#FFD700" opacity="0.22"/>
+  <circle cx="232" cy="358" r="2.0" fill="#FFD700" opacity="0.10"/>
+  <circle cx="474" cy="311" r="2.2" fill="#FFD700" opacity="0.10"/>
+  <circle cx="482" cy="286" r="2.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="270" cy="147" r="1.9" fill="#FFD700" opacity="0.10"/>
+  <circle cx="390" cy="202" r="2.8" fill="#FFD700" opacity="0.25"/>
+  <circle cx="453" cy="264" r="2.1" fill="#FFD700" opacity="0.16"/>
+  <circle cx="338" cy="138" r="2.3" fill="#FFD700" opacity="0.10"/>
+  <circle cx="414" cy="301" r="2.5" fill="#FFD700" opacity="0.26"/>
+  <circle cx="431" cy="272" r="2.9" fill="#FFD700" opacity="0.23"/>
+  <circle cx="337" cy="207" r="1.7" fill="#FFD700" opacity="0.30"/>
+  <circle cx="249" cy="216" r="1.9" fill="#FFD700" opacity="0.13"/>
+  <circle cx="182" cy="248" r="2.5" fill="#FFD700" opacity="0.10"/>
+  <circle cx="322" cy="257" r="2.2" fill="#FFD700" opacity="0.40"/>
+  <circle cx="513" cy="288" r="2.3" fill="#FFD700" opacity="0.10"/>
+  <circle cx="252" cy="193" r="1.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="404" cy="153" r="1.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="479" cy="188" r="3.0" fill="#FFD700" opacity="0.10"/>
+  <circle cx="481" cy="351" r="2.7" fill="#FFD700" opacity="0.10"/>
+  <circle cx="349" cy="297" r="2.5" fill="#FFD700" opacity="0.39"/>
+  <circle cx="444" cy="304" r="2.7" fill="#FFD700" opacity="0.16"/>
+  <circle cx="294" cy="307" r="2.1" fill="#FFD700" opacity="0.27"/>
+  <circle cx="372" cy="284" r="2.3" fill="#FFD700" opacity="0.40"/>
+  <circle cx="420" cy="112" r="1.7" fill="#FFD700" opacity="0.10"/>
+  <circle cx="303" cy="400" r="1.9" fill="#FFD700" opacity="0.10"/>
+  <circle cx="368" cy="105" r="2.8" fill="#FFD700" opacity="0.10"/>
+  <circle cx="258" cy="174" r="2.8" fill="#FFD700" opacity="0.10"/>
+  <circle cx="395" cy="320" r="2.6" fill="#FFD700" opacity="0.27"/>
+  <circle cx="216" cy="284" r="3.0" fill="#FFD700" opacity="0.10"/>
+  <circle cx="333" cy="158" r="2.6" fill="#FFD700" opacity="0.14"/>
+  <circle cx="381" cy="250" r="1.6" fill="#FFD700" opacity="0.38"/>
+  <circle cx="388" cy="122" r="2.5" fill="#FFD700" opacity="0.10"/>
+  <circle cx="292" cy="281" r="3.0" fill="#FFD700" opacity="0.30"/>
+  <circle cx="303" cy="104" r="2.5" fill="#FFD700" opacity="0.10"/>
+  <circle cx="383" cy="222" r="2.6" fill="#FFD700" opacity="0.32"/>
+  <circle cx="407" cy="304" r="2.2" fill="#FFD700" opacity="0.27"/>
+  <circle cx="183" cy="240" r="2.4" fill="#FFD700" opacity="0.10"/>
+  <circle cx="459" cy="352" r="2.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="427" cy="125" r="2.7" fill="#FFD700" opacity="0.10"/>
+  <circle cx="231" cy="252" r="1.6" fill="#FFD700" opacity="0.10"/>
+  <circle cx="293" cy="323" r="2.6" fill="#FFD700" opacity="0.23"/>
+  <circle cx="397" cy="284" r="1.9" fill="#FFD700" opacity="0.33"/>
+  <text x="536" y="372" text-anchor="middle" fill="#ffffff20" font-size="14">?</text>
+  <text x="387" y="477" text-anchor="middle" fill="#ffffff20" font-size="14">?</text>
+  <text x="164" y="372" text-anchor="middle" fill="#ffffff20" font-size="14">?</text>
+  <text x="164" y="157" text-anchor="middle" fill="#ffffff20" font-size="14">?</text>
+  <text x="387" y="53" text-anchor="middle" fill="#ffffff20" font-size="14">?</text>
+  <text x="552" y="191" text-anchor="middle" fill="#ffffff20" font-size="14">?</text>
+  <line x1="350" y1="265" x2="550" y2="265" stroke="#69F0AE" stroke-width="1" stroke-dasharray="4,3" opacity="0.5"/>
+  <text x="450" y="257" text-anchor="middle" fill="#69F0AE" font-size="10">~14 billion light-years</text>
+
+  <!-- Labels -->
+  <rect x="40" y="430" width="620" height="55" fill="#ffffff06" rx="6"/>
+  <text x="350" y="450" text-anchor="middle" fill="#ffffff60" font-size="12">Light travels at a finite speed. The universe has a finite age (~14 billion years).</text>
+  <text x="350" y="468" text-anchor="middle" fill="#ffffff60" font-size="12">So we can only see objects whose light has had time to reach us. Beyond the edge: more universe, invisible to us.</text>
+
+</svg>
