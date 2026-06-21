@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" font-family="'Segoe UI', system-ui, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#131833"/>
+    </linearGradient>
+    <filter id="glow3">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bgGrad3)"/>
+
+  <!-- Title -->
+  <text x="450" y="45" text-anchor="middle" fill="#e8e8e8" font-size="24" font-weight="bold">The Six Hallmarks of Cancer</text>
+  <text x="450" y="70" text-anchor="middle" fill="#8892b0" font-size="14">Weinberg &amp; Hanahan, 2000: six rules governing all cancers</text>
+
+  <!-- Center glow -->
+  <circle cx="450" cy="470" r="130" fill="url(#centerGlow)"/>
+
+  <!-- Center circle -->
+  <circle cx="450" cy="470" r="70" fill="#131833" stroke="#FFD700" stroke-width="2" opacity="0.9"/>
+  <text x="450" y="458" text-anchor="middle" fill="#FFD700" font-size="16" font-weight="bold">CANCER</text>
+  <text x="450" y="478" text-anchor="middle" fill="#8892b0" font-size="11">Normal cells</text>
+  <text x="450" y="492" text-anchor="middle" fill="#8892b0" font-size="11">gone wrong</text>
+  <line x1="450" y1="395" x2="450" y2="190" stroke="#69F0AE" stroke-width="2" opacity="0.3"/>
+  <circle cx="450" cy="190" r="58" fill="#131833" stroke="#69F0AE" stroke-width="2.5" filter="url(#glow3)"/>
+  <circle cx="433" cy="143" r="14" fill="#69F0AE"/>
+  <text x="433" y="148" text-anchor="middle" fill="#0a0e27" font-size="14" font-weight="bold">1</text>
+  <text x="450" y="184" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Self-Sufficient</text>
+  <text x="450" y="200" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Growth</text>
+  <text x="450" y="109" text-anchor="middle" fill="#8892b0" font-size="10">Oncogenes (ras, myc)</text>
+  <text x="450" y="123" text-anchor="middle" fill="#8892b0" font-size="10">jam the accelerator ON</text>
+  <line x1="515" y1="432" x2="692" y2="330" stroke="#FF6B6B" stroke-width="2" opacity="0.3"/>
+  <circle cx="692" cy="330" r="58" fill="#131833" stroke="#FF6B6B" stroke-width="2.5" filter="url(#glow3)"/>
+  <circle cx="725" cy="292" r="14" fill="#FF6B6B"/>
+  <text x="725" y="297" text-anchor="middle" fill="#0a0e27" font-size="14" font-weight="bold">2</text>
+  <text x="692" y="324" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Ignoring</text>
+  <text x="692" y="340" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Stop Signals</text>
+  <text x="757" y="286" text-anchor="middle" fill="#8892b0" font-size="10">Tumor suppressors (Rb)</text>
+  <text x="757" y="300" text-anchor="middle" fill="#8892b0" font-size="10">are knocked out</text>
+  <line x1="515" y1="508" x2="692" y2="610" stroke="#FF9800" stroke-width="2" opacity="0.3"/>
+  <circle cx="692" cy="610" r="58" fill="#131833" stroke="#FF9800" stroke-width="2.5" filter="url(#glow3)"/>
+  <circle cx="742" cy="619" r="14" fill="#FF9800"/>
+  <text x="742" y="624" text-anchor="middle" fill="#0a0e27" font-size="14" font-weight="bold">3</text>
+  <text x="692" y="604" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Evading</text>
+  <text x="692" y="620" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Cell Death</text>
+  <text x="757" y="642" text-anchor="middle" fill="#8892b0" font-size="10">Apoptosis pathways</text>
+  <text x="757" y="656" text-anchor="middle" fill="#8892b0" font-size="10">are disabled</text>
+  <line x1="450" y1="545" x2="450" y2="750" stroke="#B388FF" stroke-width="2" opacity="0.3"/>
+  <circle cx="450" cy="750" r="58" fill="#131833" stroke="#B388FF" stroke-width="2.5" filter="url(#glow3)"/>
+  <circle cx="467" cy="797" r="14" fill="#B388FF"/>
+  <text x="467" y="802" text-anchor="middle" fill="#0a0e27" font-size="14" font-weight="bold">4</text>
+  <text x="450" y="744" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Unlimited</text>
+  <text x="450" y="760" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Replication</text>
+  <text x="450" y="819" text-anchor="middle" fill="#8892b0" font-size="10">Telomerase keeps cells</text>
+  <text x="450" y="833" text-anchor="middle" fill="#8892b0" font-size="10">immortally dividing</text>
+  <line x1="385" y1="508" x2="208" y2="610" stroke="#4FC3F7" stroke-width="2" opacity="0.3"/>
+  <circle cx="208" cy="610" r="58" fill="#131833" stroke="#4FC3F7" stroke-width="2.5" filter="url(#glow3)"/>
+  <circle cx="175" cy="648" r="14" fill="#4FC3F7"/>
+  <text x="175" y="653" text-anchor="middle" fill="#0a0e27" font-size="14" font-weight="bold">5</text>
+  <text x="208" y="604" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Growing</text>
+  <text x="208" y="620" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Blood Vessels</text>
+  <text x="143" y="642" text-anchor="middle" fill="#8892b0" font-size="10">Tumors recruit their</text>
+  <text x="143" y="656" text-anchor="middle" fill="#8892b0" font-size="10">own blood supply</text>
+  <line x1="385" y1="433" x2="208" y2="330" stroke="#FF80AB" stroke-width="2" opacity="0.3"/>
+  <circle cx="208" cy="330" r="58" fill="#131833" stroke="#FF80AB" stroke-width="2.5" filter="url(#glow3)"/>
+  <circle cx="158" cy="321" r="14" fill="#FF80AB"/>
+  <text x="158" y="326" text-anchor="middle" fill="#0a0e27" font-size="14" font-weight="bold">6</text>
+  <text x="208" y="324" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Invasion &amp;</text>
+  <text x="208" y="340" text-anchor="middle" fill="#e8e8e8" font-size="12" font-weight="bold">Metastasis</text>
+  <text x="143" y="287" text-anchor="middle" fill="#8892b0" font-size="10">Cells migrate, colonize</text>
+  <text x="143" y="301" text-anchor="middle" fill="#8892b0" font-size="10">distant organs</text>
+  <line x1="496" y1="219" x2="644" y2="305" stroke="#8892b0" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.2"/>
+  <line x1="690" y1="384" x2="690" y2="556" stroke="#8892b0" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.2"/>
+  <line x1="644" y1="635" x2="496" y2="721" stroke="#8892b0" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.2"/>
+  <line x1="404" y1="721" x2="256" y2="635" stroke="#8892b0" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.2"/>
+  <line x1="210" y1="556" x2="210" y2="384" stroke="#8892b0" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.2"/>
+  <line x1="256" y1="305" x2="404" y2="219" stroke="#8892b0" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.2"/>
+  <text x="450" y="875" text-anchor="middle" fill="#8892b0" font-size="11" font-style="italic">"A distorted version of our normal selves"</text>
+</svg>

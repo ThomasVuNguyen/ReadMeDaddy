@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+  <title>Farber's Logic: From Disaster to Breakthrough</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+      text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    </style>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#1a1e3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bgGrad)" rx="12"/>
+  <text x="400.0" y="35" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="700">Farber's Logic</text>
+  <text x="400.0" y="57" text-anchor="middle" fill="#8a8fa8" font-size="14">How a catastrophic failure became a breakthrough insight</text>
+  <rect x="30" y="75" width="225" height="280" fill="#111738" rx="10" stroke="#4FC3F7" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="142.5" y="105" text-anchor="middle" fill="#4FC3F7" font-size="16" font-weight="600">The Hypothesis</text>
+  <text x="142.5" y="175" text-anchor="middle" fill="#4FC3F7" font-size="48" opacity="0.5">?</text>
+  <text x="142.5" y="245" text-anchor="middle" fill="#ffffff" font-size="12">Folic acid restores</text>
+  <text x="142.5" y="263" text-anchor="middle" fill="#ffffff" font-size="12">normal blood production</text>
+  <text x="142.5" y="295" text-anchor="middle" fill="#4FC3F7" font-size="11" font-weight="600">Maybe it fixes leukemia too?</text>
+  <rect x="285" y="75" width="225" height="280" fill="#111738" rx="10" stroke="#FF6B6B" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="397.5" y="105" text-anchor="middle" fill="#FF6B6B" font-size="16" font-weight="600">The Disaster</text>
+  <text x="397.5" y="175" text-anchor="middle" fill="#FF6B6B" font-size="48" opacity="0.5">×</text>
+  <text x="397.5" y="245" text-anchor="middle" fill="#ffffff" font-size="12">Folic acid ACCELERATED</text>
+  <text x="397.5" y="263" text-anchor="middle" fill="#ffffff" font-size="12">the leukemia</text>
+  <text x="397.5" y="295" text-anchor="middle" fill="#FF6B6B" font-size="11" font-weight="600">White cells doubled. Kids died faster.</text>
+  <rect x="540" y="75" width="225" height="280" fill="#111738" rx="10" stroke="#69F0AE" stroke-width="1.5" stroke-opacity="0.4"/>
+  <text x="652.5" y="105" text-anchor="middle" fill="#69F0AE" font-size="16" font-weight="600">The Insight</text>
+  <text x="652.5" y="175" text-anchor="middle" fill="#69F0AE" font-size="48" opacity="0.5">✓</text>
+  <text x="652.5" y="245" text-anchor="middle" fill="#ffffff" font-size="12">If folic acid speeds it UP</text>
+  <text x="652.5" y="263" text-anchor="middle" fill="#ffffff" font-size="12">blocking it might</text>
+  <text x="652.5" y="295" text-anchor="middle" fill="#69F0AE" font-size="11" font-weight="600">shut it DOWN</text>
+  <defs>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8a8fa8"/>
+    </marker>
+  </defs>
+  <line x1="260" y1="215.0" x2="280" y2="215.0" stroke="#8a8fa8" stroke-width="2" marker-end="url(#arrowhead2)"/>
+  <line x1="515" y1="215.0" x2="535" y2="215.0" stroke="#8a8fa8" stroke-width="2" marker-end="url(#arrowhead2)"/>
+  <rect x="80" y="380" width="640" height="80" fill="#111738" rx="8" stroke="#69F0AE" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="400.0" y="405" text-anchor="middle" fill="#ffffff" font-size="13" font-weight="600">The Fake Key Principle</text>
+  <text x="400.0" y="428" text-anchor="middle" fill="#8a8fa8" font-size="12">An antifolate mimics folic acid closely enough to fool the cell's enzymes,</text>
+  <text x="400.0" y="446" text-anchor="middle" fill="#8a8fa8" font-size="12">but jams the lock instead of opening it. Like a fake key that slides in but won't turn.</text>
+</svg>

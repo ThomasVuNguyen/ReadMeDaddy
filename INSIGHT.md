@@ -1,0 +1,1 @@
+1. what often loses people are the details and names that doesnt let people flow thru but forces you to stop and memorize as it might come into play later
